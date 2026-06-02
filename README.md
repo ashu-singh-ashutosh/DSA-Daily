@@ -1,1 +1,1 @@
-This is a folder created to just write the code for writing the code daily so that to maintain the daily strik and do the work consistently .
+i want to start practising the dsa problem ,but i was losing motivation so i created this directory to maintain the code on github on the daily basis so that i regularly push the code in github and my consistency should be maintained
