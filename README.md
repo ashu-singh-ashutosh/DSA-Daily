@@ -1,0 +1,1 @@
+i want to start practising the dsa problem ,but i was losing motivation so i created this directory to maintain the code on github on the daily basis so that i regularly push the code in github and my consistency should be maintained
